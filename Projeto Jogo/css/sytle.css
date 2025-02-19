@@ -1,0 +1,40 @@
+body{
+    background-color: #d2d2d1;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#principal {
+    width: 100%;
+}
+#principal #cabecalho img {
+    width: 100%;
+}
+#principal #cabecalho #menu a {
+    color: #4b566a;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+#principal #cabecalho #menu a:hover{
+ color: #d2d2c1;
+ background: #4b566a;
+}
+#corpo {
+    padding: 10px;
+    background-color: #e8e8d9;
+}
+#corpo h1 {
+    color: #000000;
+}
+#image1{
+    width: 900px;
+} 
+#image2{
+    width: 900px;
+}
+#principal #rodape{
+    text-align: center;
+}
+
+
